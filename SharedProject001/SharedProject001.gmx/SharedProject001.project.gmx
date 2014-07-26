@@ -5,10 +5,14 @@
   </Configs>
   <NewExtensions/>
   <sounds name="sound"/>
-  <sprites name="sprites"/>
+  <sprites name="sprites">
+    <sprite>sprites\spr_corpse1</sprite>
+    <sprite>sprites\spr_dooks1</sprite>
+    <sprite>sprites\spr_dooks2</sprite>
+    <sprite>sprites\spr_corpse2</sprite>
+  </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
-  <objects name="objects"/>
   <help>
     <rtf>help.rtf</rtf>
   </help>
